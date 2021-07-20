@@ -1,4 +1,4 @@
-# Minimax_Chess
+# Minimax_Reversi
 
 This project adopts **Minimax** algorithm (with **α-β pruning**) to implement an AI player that can play Reversi game.
 
